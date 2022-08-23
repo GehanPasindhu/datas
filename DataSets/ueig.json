@@ -1,15 +1,6 @@
 [
-   {
-    "": 0,
-    "Product": "Arogya",
-    "Followers": 0,
-    "Number of Posts": 0,
-    "Total Likes": 0,
-    "Total Comments":0,
-    "User Engagement":0
-  },
     {
-    "": 1,
+    "": 0,
     "Product": "Ulpotha",
     "Followers": 4965,
     "Number of Posts": 713,
@@ -18,7 +9,7 @@
     "User Engagement":1.6172675771070708
   },
   {
-    "": 2,
+    "": 1,
     "Product": "Rukshan Yoga Sri Lanka",
     "Followers": 1034,
     "Number of Posts": 523,
